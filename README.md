@@ -101,7 +101,7 @@ For any questions or suggestions, feel free to reach out:
 
 - Email: ak6590219@gamil.com
 - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/arif-khan-460a4b284)
-- GitHub: [Your GitHub Profile]((https://github.com/arif6371))]
+- GitHub: [Your GitHub Profile](https://github.com/arif6371)
 
 ---
 
