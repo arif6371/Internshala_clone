@@ -112,7 +112,7 @@ function Footer() {
   <i class="fab fa-instagram"></i>
 
 </div>
-            <p class="mt-4 text-sm  sm:mt-0 dark">© Copyright 2023. All Rights Reserved.</p>
+            <p class="mt-4 text-sm  sm:mt-0 dark">AK © Copyright 2024. All Rights Reserved.</p>
         </div>
     </div>
 </footer>
